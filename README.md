@@ -5,11 +5,7 @@ I am a graduate student in Cybersecurity with hands-on experience in Networking,
 
 ## Objective
 
-As a dedicated student with a solid foundation in cybersecurity principles, along with hands-on experience in system administration and networking, 
-my goal is to secure an entry-level role aligned to **Network & Cloud Security**, **Security Architecture**, **Security Operations**, **Governance, 
-Risk & Compliance**, or **Cyberthreat Intelligence**,  where I can contribute to enhancing organizational security measures, protecting sensitive 
-data, and mitigating cyber threats. I am committed to continuous learning and growth in the cybersecurity field and am excited to bring my enthusiasm
-and technical expertise to a dynamic, agile team.
+I am a dedicated cybersecurity graduate student with a strong foundation in networking, system administration, and security operations. My goal is to secure an entry-level role in Network & Cloud Security, Security Architecture, Security Operations, Governance, Risk & Compliance, or Cyber Threat Intelligence. I am passionate about strengthening organizational defenses, safeguarding sensitive data, and mitigating cyber threats. Committed to continuous learning, I bring both enthusiasm and technical expertise to contribute meaningfully within a dynamic, security-focused team.
 
 ## Projects & Skills
 
