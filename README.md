@@ -6,11 +6,7 @@ Systems Administration and IT Support.
 
 ## Objective
 
-I am a dedicated cybersecurity graduate student with a strong foundation in networking, system administration, and security operations. 
-My goal is to secure an entry-level role in Network & Cloud Security, Security Architecture, Security Operations, Governance, 
-Risk & Compliance, or Cyber Threat Intelligence. I am passionate about strengthening organizational defenses, safeguarding sensitive data, 
-and mitigating cyber threats. Committed to continuous learning, I bring both enthusiasm and technical expertise to contribute meaningfully 
-within a dynamic, security-focused team.
+I am a cybersecurity graduate student aspiring to join the Blue Team, with a strong foundation in networking, operating systems, full-stack software development, and security operations. My goal is to defend systems and data by leveraging skills in SIEM, IDS/IPS, firewalls, vulnerability management, network protocols, secure network architecture, cloud platforms, and incident response. I bring strong analytical abilities for threat detection, risk assessment, and intelligence analysis, combined with hands-on experience in system hardening, patch management, and secure network architecture. Committed to continuous growth, I aim to contribute to a dynamic security team by mitigating threats, strengthening defenses, and collaborating across teams to enhance organizational resilience.
 
 ## Projects & Skills
 
