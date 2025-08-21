@@ -21,7 +21,7 @@ I am a cybersecurity graduate student aspiring to join the Blue Team, with a str
 
 ## Certifications (*Click to verify*)
 <div>
-<a href="https://www.credly.com/badges/79cce531-7dfa-48a2-b11b-0043ca63f056/linked_in_profile"target="_blank">
+<a href=" " target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 <a href="https://www.credly.com/earner/earned/badge/185183b4-1305-4b32-a2ec-618be57ee64d" target="_blank">
