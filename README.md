@@ -13,8 +13,8 @@ I am a cybersecurity graduate student aspiring to join the Blue Team, with a str
 ## Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| SIEM            |  Log Mgnt & Analysis, Incident Response|Splunk, Microsoft Sentinel|<a href="">SIEM</a>              
-|Programming Languages| Coding, Problem solving              |Python-Django, Javascript-React, HTML, CSS, Java-Spring Boot          | <a href="">Programming</a>                |
+| SIEM            |  Log management & Analysis, Incident Response|Splunk, Microsoft Sentinel|<a href="">SIEM</a>              
+|Software Development| Coding, Problem solving              |Python-Django, Javascript-React, HTML, CSS, Java-Spring Boot          | <a href="">Programming Languages</a>                |
 |Cybersecurity Project|Communication, Research            |NIST 800-53r5, NIST CSF 2.0, CISSP Official Textbook|<a href="">Cybersecurity Project</a>                |
 |                 |                                       |                 |                 |
 
