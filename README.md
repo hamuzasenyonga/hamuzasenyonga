@@ -6,7 +6,7 @@ Systems Administration and IT Support.
 
 ## Objective
 
-I am a cybersecurity graduate student aspiring to join the Blue Team, with a strong foundation in networking, operating systems, full-stack software development, and security operations. My goal is to defend systems and data by leveraging skills in SIEM, IDS/IPS, firewalls, vulnerability management, network protocols, secure network architecture, cloud platforms, and incident response. I bring strong analytical abilities for threat detection, risk assessment, and intelligence analysis, combined with hands-on experience in system hardening, patch management, and secure network architecture. Committed to continuous growth, I aim to contribute to a dynamic security team by mitigating threats, strengthening defenses, and collaborating across teams to enhance organizational resilience.
+I am a cybersecurity graduate student aspiring to join the Blue Team, with a strong foundation in networking, operating systems, full-stack software development, and security operations. My goal is to defend systems and data by leveraging skills in SIEM, IDS/IPS, firewalls, vulnerability management, network protocols, secure network architecture, cloud platforms, and incident response. I bring strong analytical abilities for data analysis, threat detection, risk assessment, and intelligence analysis, combined with hands-on experience in system hardening, patch management, and secure network architecture. Committed to continuous growth, I aim to contribute to a dynamic security team by mitigating threats, strengthening defenses, and collaborating across teams to enhance organizational resilience.
 
 ## Projects & Skills
 
