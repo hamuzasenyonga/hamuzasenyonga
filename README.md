@@ -1,11 +1,16 @@
 # Hello, I'm Hamuza Senyonga
 <a href="https://www.linkedin.com/in/hamuza-senyonga-847429237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B528lop2iQOCo9feWCa76Cw%3D%3D/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a graduate student in Cybersecurity with hands-on experience in Networking, Systems Administration, and IT Support.
+Graduate student in Cybersecurity with practical experience in Software Development, Security Operations Center (Blue Team), Active Directory, 
+Systems Administration and IT Support.
 
 ## Objective
 
-I am a dedicated cybersecurity graduate student with a strong foundation in networking, system administration, and security operations. My goal is to secure an entry-level role in Network & Cloud Security, Security Architecture, Security Operations, Governance, Risk & Compliance, or Cyber Threat Intelligence. I am passionate about strengthening organizational defenses, safeguarding sensitive data, and mitigating cyber threats. Committed to continuous learning, I bring both enthusiasm and technical expertise to contribute meaningfully within a dynamic, security-focused team.
+I am a dedicated cybersecurity graduate student with a strong foundation in networking, system administration, and security operations. 
+My goal is to secure an entry-level role in Network & Cloud Security, Security Architecture, Security Operations, Governance, 
+Risk & Compliance, or Cyber Threat Intelligence. I am passionate about strengthening organizational defenses, safeguarding sensitive data, 
+and mitigating cyber threats. Committed to continuous learning, I bring both enthusiasm and technical expertise to contribute meaningfully 
+within a dynamic, security-focused team.
 
 ## Projects & Skills
 
